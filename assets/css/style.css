@@ -1,0 +1,16 @@
+.nav-item{
+    margin-left: 20px;
+}
+
+#icon-nav{
+    border-radius: 50%;
+}
+
+.navbar{
+    background-color: #6bdada !important;
+}
+
+.carousel-item img{
+    width: 100vw;
+    height: 100vh;
+}
